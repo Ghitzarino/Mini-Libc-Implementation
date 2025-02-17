@@ -51,7 +51,7 @@ This project is a minimalistic implementation of the standard C library (libc), 
 ## **How to Use**  
 1. Clone the repository to your local machine.  
 2. Compile the library using the Makefile (make).  
-3. Link the library with your programs to replace the standard libc or test each implemented function separatelly.  
+3. Link the library with your programs to replace the standard libc or test each implemented function separately.  
 
 ---
 
